@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ved0715&label=Profile%20views&color=0e75b6&style=flat" alt="ved0715" /> </p>
 
+<img alt="Coder GIF" height=500 width=1500 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
+
+
 - 🔭 I’m currently working on **Computer Vision Projects**
 
 - 🌱 I’m currently learning **Django**
