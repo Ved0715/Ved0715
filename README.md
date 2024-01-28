@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React , Python**
 
-- 📫 How to reach me **vedantnarwade121@gmail.com**
+- 📫 How to reach me **vedant21bcs109@iiitkottayam.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
