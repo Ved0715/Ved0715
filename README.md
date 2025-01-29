@@ -9,15 +9,15 @@
 
 
 
-- 🔭 I’m currently working on **Computer Vision Projects**
+- 🔭 I’m currently working on **SAAS based Project**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Generative AI**
 
-- 👯 I’m looking to collaborate on **CV projects**
+- 👯 I’m looking to collaborate on **Problem Solving Projects**
 
-- 💬 Ask me about **React , Python**
+- 💬 Ask me about **MERN, PostgreSQL, Machine Learning**
 
-- 📫 How to reach me **vedant21bcs109@iiitkottayam.ac.in**
+- 📫 How to reach me **vedant.narwade.17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
