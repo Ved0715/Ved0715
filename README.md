@@ -1,4 +1,3 @@
-![Coder GIF](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)
 
 <h1 align="center">Hi 👋, I'm Vedant Narwade</h1>
 <h3 align="center">A Passionate Full Stack Developer & Machine Learning Enthusiast</h3>
